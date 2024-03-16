@@ -7,3 +7,33 @@
 
 ## 온라인 코드 리뷰 과정
 * [텍스트와 이미지로 살펴보는 온라인 코드 리뷰 과정](https://github.com/next-step/nextstep-docs/tree/master/codereview)
+
+# step5
+
+## 요구사항
+- 각 클래스는 하나의 변수만 갖는다.
+
+[//]: # (### Car)
+- name
+> 자동차 이름은 쉼표기준으로 구분한다.
+> 앞으로 전진할 수 있다.
+> 
+
+[//]: # (### Position)
+- position
+> 자동차가 움직이는지 확인한다.
+> 
+### InputView
+
+### ResultView
+
+### Valid
+> 자동차는 5자 이하의 이름을 가져야한다.
+> 시도 횟수는 1이상의 값을 가져야한다.
+
+### Random
+> 10이하의 숫자가 출력되는지 확인한다.
+
+### Main
+
+### GameLogic
